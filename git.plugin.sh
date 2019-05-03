@@ -38,9 +38,6 @@ function work_in_progress() {
 # (sorted alphabetically)
 #
 
-alias gedit='code ~/.oh-my-zsh/plugins/git/git.plugin.zsh' 
-alias gcd='cd /home/shahar/.oh-my-zsh/plugins/git'
-
 alias g='git'
 
 alias ga='git add'
